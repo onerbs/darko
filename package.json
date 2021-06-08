@@ -1,0 +1,14 @@
+{
+  "name": "@onerbs/darko",
+  "description": "Dark mode toggle",
+  "version": "1.0.0",
+  "author": "Alejandro Elí",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "prettier --write index.js"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.1"
+  }
+}
